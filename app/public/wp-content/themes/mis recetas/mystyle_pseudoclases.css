@@ -1,0 +1,65 @@
+/* Pseudoclases */
+
+/* hover */
+
+div.hover {
+    background-color: rgb(89, 42, 165);
+    color: white;
+}
+
+div.hover:hover {
+   background-color: rgb(255, 196, 0);
+   color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(128, 0, 11);
+    text-decoration: underline;
+}
+
+/* first-child, last-child, nth-child */
+
+div.child {
+    background-color: blue;
+}
+
+div.child p {
+    background-color: cadetblue;
+}
+
+/*div.child p:first-child {
+    background-color: red;
+}*/
+
+
+div.child p:last-child {
+    background-color: red;
+}
+
+div.margen {
+    background-color: rgb(0, 139, 81);
+}
+
+div.margen p {
+    padding-bottom:40px;
+}
+
+div.margen p:last-child {
+    padding-bottom: 0;
+}
+
+
+div.nth {
+    background-color: pink;    
+}
+
+/*nth-child(1) -> first-child*/
+
+/*div.nth p:nth-child(3n+1) {
+    background-color: blue; 
+}*/
+

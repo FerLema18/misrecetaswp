@@ -1,0 +1,23 @@
+.padre{
+    display:flex;
+    width: 500px;
+    height: 500px;
+    background-color: cyan;
+    flex-direction: top;
+}
+
+.hijo {
+    background-color: darkgoldenrod;
+    border:2px solid black;
+    height: 100px;
+    width: 200x;
+    
+    }   
+
+/*.derecha{
+    margin-left:auto;
+}
+
+.izquierda{
+    margin-right: auto;
+}

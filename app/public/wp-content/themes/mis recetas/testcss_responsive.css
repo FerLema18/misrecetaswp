@@ -1,0 +1,64 @@
+* {box-sizing: border-box}
+
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    background-color: darkturquoise;
+    font-size: 1.4em;
+    width:100%;
+    /*min-width: 800px;*/
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+    
+
+    /*width: 100%;*/
+     margin-right: 50px;
+    /*margin-left: auto;*/
+
+}
+.flex {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/* @media (min-width: 800px) {
+    .container{background-color: darkorange;}
+
+@media (min-width: 800px) and (max-width: 799px){
+    .container {background-color: blueviolet;}
+
+    @media (max-width: 599px){
+    .container{background-color: red;}*/
+
+
+    
+.hijo{
+    background-color: yellowgreen;
+    width: 70%;
+    /*margin-right: 1px;*/
+
+    
+}
+
+.primo{
+   /* background-color: rgb(255, 0, 85);*/
+   /*width: calc(30% - 10%);*/
+   /*margin-left: auto;*/
+
+}
+.body{
+    background-color: rgb(226, 21, 55);
+}
+
+.virensis img{
+    
+    width: 50%;
+    height: 100%;
+    object-fit:cover;
+    object-position: center;
+
+
+} 

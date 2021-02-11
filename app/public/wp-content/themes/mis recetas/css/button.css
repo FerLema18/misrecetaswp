@@ -1,0 +1,23 @@
+.btn {
+    padding: .3em .6em;
+    border: none;
+}
+
+.btn.primary {
+    background-color: rgb(132, 135, 136);
+    color: white;
+}
+.btn.primary:hover {
+    background-color: black;
+    color: white;
+    cursor:pointer;
+}
+
+.btn.secundary {
+    background-color: rgb(62, 13, 209);
+}
+
+.btn.secundary:hover {
+    background-color:aliceblue;
+    cursor:pointer;
+}

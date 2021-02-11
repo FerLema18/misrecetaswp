@@ -1,0 +1,17 @@
+*{ box-sizing : border-box;}
+.padre {
+    display: flex;
+    height: 500px;
+    width: 500px;
+    background-color: cyan;
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo {    
+    border: 2px solid black;
+    background-color: goldenrod;
+    width: 100px;
+    height: 100px;
+}
+

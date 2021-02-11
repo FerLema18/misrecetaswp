@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Imagenes"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mis recetas"
+	}
+}

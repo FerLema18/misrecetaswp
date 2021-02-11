@@ -1,0 +1,25 @@
+/* cascada */
+
+/*.clase1{
+    background-color: blue;
+    background-color: red;
+    
+}*/
+
+/* especificidad*/
+
+
+/*.clase1{color:yellow;}
+.clase1{color:blue;}
+div {background-color: red;}*/
+
+/* a { color:green !important;
+color: red !important;
+}*/
+    
+/* herencia */
+
+/* div {font-size: 30;
+    background-color: red;
+    padding: 10px;
+}*/

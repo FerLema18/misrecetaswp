@@ -1,0 +1,11 @@
+#header{
+    padding-top: 1em;
+   /*ejemplo para darle color de fondo al header*/
+    background-color: white;
+} 
+
+  
+#header img{
+    width: 150px;
+    height: 70px;
+}

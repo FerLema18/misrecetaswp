@@ -1,0 +1,7 @@
+.link-normal {
+    color: blueviolet;
+}
+
+.link-normal:hover{
+    text-decoration: underline;
+}

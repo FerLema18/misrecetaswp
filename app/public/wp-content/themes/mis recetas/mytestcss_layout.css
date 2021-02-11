@@ -1,0 +1,78 @@
+.caja {
+    background-color: red;
+    color: white;
+    padding:1em;
+    border: 1px solid black;
+
+}
+
+/*.caja1 {
+    /*position: static;*/ /*relativo a no hacer nada
+    position:sticky;
+    top: 0;
+    width: 1000;
+    height: 20px;
+    right: 0em;
+    background-color: rgb(79, 128, 0);
+}
+.hijo{
+    position:absolute;
+    width: 700px;
+    height: 100px;
+    background-color: darkgray;
+    bottom:0px;
+    left: 10px;
+
+}*/
+
+/*.caja2 {
+    position:relative;
+    left: 0em;
+    background-color: darkcyan;
+
+}
+
+.hijo{
+    position:absolute;
+    z-index: 2;
+    width: 700px;
+    height: 100px;
+    background-color: darkgray;
+    bottom:0px;
+    left: 10px;
+
+}*/
+/*.hijo {
+    z-index: 1;
+}
+
+
+.caja3 {
+    background-color:pink;
+
+}
+.caja4 {
+    background-color: gold;
+}*/
+
+/*.block {
+    display:block;
+    background-color: darkorange;
+}
+
+/*.inline {
+    display: inline;
+    background-color: darkturquoise;
+    /*margin-top: 10px;
+    margin-bottom: 100px;
+    height: 100px;
+    width: 200px;
+    margin-right: 10px;
+
+}
+
+.inline-block {
+    display: inline-block;
+    background-color: forestgreen;
+    height: 50px;
+}*/

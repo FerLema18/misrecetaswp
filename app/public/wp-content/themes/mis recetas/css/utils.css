@@ -1,0 +1,13 @@
+/* Fondos */
+.bg-dark {
+    background-color: grey;
+}
+
+.bg-light {
+    background-color: whitesmoke;
+}
+
+/* corners */
+.rounded {
+    border-radius: 10px;
+}
